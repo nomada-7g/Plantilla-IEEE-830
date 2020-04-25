@@ -6,12 +6,14 @@ Realizado en orgmode. Para obtener los archivos latex.
 Motivado por no ver una plantilla para esta especificación en formato latex.
 
 
-* Requisitos
+* Requisitos para editar desde orgmode
 
 + Emacs
 + Texlive 
 + (Opcional) TeXstudio
 
+
+En caso de no usar emacs, se puede simplemente descargar el archivo [[template_ieee830.tex][tex]].
 
 -----
 
