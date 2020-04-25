@@ -1,0 +1,18 @@
+
+* Plantilla IEEE-830 para latex
+
+Realizado en orgmode. Para obtener los archivos latex.
+
+Motivado por no ver una plantilla para esta especificación en formato latex.
+
+
+* Requisitos
+
++ Emacs
++ Texlive 
++ (Opcional) TeXstudio
+
+
+-----
+
+Cualquier aporte, critica o corrección es bienvenido. 
